@@ -1,0 +1,15 @@
+Қайрат: SUB: Wrong 
+Қожамжаровақа: OBJ: Wrong 
+деп: PRED: Wrong 
+жасай: SUB: Correct 
+қызметіне: OBJ: Correct 
+хабарлайды: PRED: Correct 
+тексеру-тергеудің: SUB: Correct 
+басшылығына: OBJ: Correct 
+тапсырылды: PRED: Correct 
+тексеріп-тергеу: SUB: Correct 
+Қылмысты: OBJ: Correct 
+құрылды: PRED: Correct 
+өлтірушілерге: SUB: Wrong 
+Тенді: OBJ: Wrong 
+болады: PRED: Wrong 
